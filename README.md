@@ -1,4 +1,4 @@
-﻿# ar-rcycling-app
+﻿# ar-recycling-app
 AI-Based AR Waste Detection & Recycling Guidance System (Unity AR Foundation)
 
 🧩 CORE COMPONENTS (UNITY SETUP)
